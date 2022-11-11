@@ -1,4 +1,5 @@
 rootProject.name = 'Tinkoff-ab'
 include 'react'
 include 'aop'
+include 'patterns'
 
